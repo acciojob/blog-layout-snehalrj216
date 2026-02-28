@@ -43,3 +43,8 @@ body {
 .blog-column li {
     margin: 12px 0;
 }
+.holder {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
